@@ -3,6 +3,10 @@
 	"name": "frontend_react",
 	"version": "0.1.0",
 	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pulkit161001/pulkit161001.github.io.git"
+	},
 	"dependencies": {
 		"@sanity/client": "^3.4.1",
 		"@sanity/image-url": "^1.0.1",
